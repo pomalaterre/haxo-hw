@@ -215,7 +215,7 @@ The mouthpiece is used for embochure comfort and familiarity, but it is not real
 
 To attach a mouthpiece, you might need to use some masking, washi or cork tape to adjust the neck diameter to your mouthpiece.
 
-In case you have a 3D Printer, you can also find some slt files of sax mouthpieces at https://www.thingiverse.com/search?q=mouthpiece+sax&type=things&sort=relevant
+In case you have a 3D Printer, you can also find some stl files of sax mouthpieces at https://www.thingiverse.com/search?q=mouthpiece+sax&type=things&sort=relevant
 
 ### 16. Testing
 
